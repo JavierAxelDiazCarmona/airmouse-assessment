@@ -7,6 +7,12 @@
 Este proyecto implementa un dispositivo mecatrónico de bajo costo diseñado para la rehabilitación y el entrenamiento del movimiento fino de la muñeca. El sistema combina hardware embebido para la captura de movimiento inercial y software de escritorio para la visualización de trayectorias y registro de datos clínicos.
 
 Desarrollado en la **Facultad de Ingeniería de la UNAM**.
+---
+## Derechos de Autor
+
+Copyright © 2026. Todos los derechos reservados.
+
+Este proyecto y todo su contenido, incluyendo el código fuente y la documentación, son propiedad de su autor. No se permite la reproducción, distribución o modificación de este material sin el consentimiento previo y por escrito del titular de los derechos.
 
 ## 📋 Características Principales
 
@@ -50,10 +56,3 @@ El script de Python gestiona la interfaz gráfica y el registro de datos.
 **Librerías necesarias:**
 ```bash
 pip install pyserial tk
-
----
-## Derechos de Autor
-
-Copyright © 2026. Todos los derechos reservados.
-
-Este proyecto y todo su contenido, incluyendo el código fuente y la documentación, son propiedad de su autor. No se permite la reproducción, distribución o modificación de este material sin el consentimiento previo y por escrito del titular de los derechos.
