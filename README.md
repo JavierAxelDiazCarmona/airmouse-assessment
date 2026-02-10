@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/Estado-Finalizado-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino%20Nano-teal)
-![License](https://img.shields.io/badge/Licencia-MIT-lightgrey)
 
 Este proyecto implementa un dispositivo mecatrónico de bajo costo diseñado para la rehabilitación y el entrenamiento del movimiento fino de la muñeca. El sistema combina hardware embebido para la captura de movimiento inercial y software de escritorio para la visualización de trayectorias y registro de datos clínicos.
 
