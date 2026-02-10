@@ -50,3 +50,10 @@ El script de Python gestiona la interfaz gráfica y el registro de datos.
 **Librerías necesarias:**
 ```bash
 pip install pyserial tk
+
+---
+## Derechos de Autor
+
+Copyright © 2026. Todos los derechos reservados.
+
+Este proyecto y todo su contenido, incluyendo el código fuente y la documentación, son propiedad de su autor. No se permite la reproducción, distribución o modificación de este material sin el consentimiento previo y por escrito del titular de los derechos.
